@@ -1,0 +1,9 @@
+.todos{
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+.todo{
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 10px;
+}
